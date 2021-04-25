@@ -1,6 +1,6 @@
 # Plant-Manager
 
-Aplicativo criado durante o evento nwl #05 para gerenciar as suas plantas, isso mesmo "gerenciar suas plantas", nunca mais voce esquecera de regar sua plantinha ...
+Aplicativo criado durante o evento nwl #05 para gerenciar as suas plantas, isso mesmo "gerenciar suas plantas", nunca mais você esquecera de regar suas plantinhas ...
  
  <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/main/assets/screenshots/print1.png" />
  <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/main/assets/screenshots/print2.png" />

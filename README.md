@@ -2,8 +2,8 @@
 
 Aplicativo criado durante o evento nwl #05 para gerenciar as suas plantas, isso mesmo "gerenciar suas plantas", nunca mais voce esquecera de regar sua plantinha ...
  
- <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/master/assets/screenshots/print1.png" />
- <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/master/assets/screenshots/print2.png" />
+ <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/main/assets/screenshots/print1.png" />
+ <img  src="https://github.com/alessandroprudencio/Plant-Manager/blob/main/assets/screenshots/print2.png" />
 
 ## Vamos começar!
 

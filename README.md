@@ -41,6 +41,13 @@ yarn | npm install
 yarn start | npm start | react-native run-ios or react-native run-android;
 ```
 
+Iniciar Servidor
+
+```
+json-server --watch db.json
+```
+
+
 Pronto sua aplicação estará  rodando...
 
 ## Construído com
